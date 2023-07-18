@@ -12,6 +12,7 @@ bleach = "*"
 djoser = "*"
 djangorestframework-simplejwt = "~=5.2.1"
 django-jazzmin = "*"
+dj-database-url = "*"
 
 [dev-packages]
 
